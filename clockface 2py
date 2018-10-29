@@ -1,0 +1,9 @@
+# Read an integer:
+a = float(input())
+
+# Read a float:
+# b = float(input())
+# Print a value:
+
+
+print((a%30)*12)
